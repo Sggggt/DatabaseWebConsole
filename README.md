@@ -19,6 +19,5 @@ python app.py
   - 在 “Custom SQL” 运行任意 SQL（支持 SELECT/DDL/DML，返回受影响行数与耗时）。
 
 ## Notes
-- 不再提供任务数据的自动导入脚本，也不再依赖 Task6/7/8 SQL 文件。
 - 需要清理指定数据库时，可选择 `clear_data.py`（按 `db_config.ini` 中的数据库名工作，谨慎使用）。
 - 依赖清单见 `install_package.py`。
