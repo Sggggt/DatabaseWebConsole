@@ -22,13 +22,6 @@ python app.py
   - 在 “Browse Tables” 查看当前库的表并快速预览数据
   - 在 “Custom SQL” 执行自定义 SQL，返回结果/受影响行数与耗时
 
-<<<<<<< HEAD
-## 其他说明
-- 不再提供任务数据的自动导入脚本，也不依赖 Task6/7/8 SQL 文件
-- 需要清理指定数据库时，可使用 `clear_data.py`（按 `db_config.ini` 中的数据库名操作，谨慎执行）
-- 依赖清单见 `install_package.py`
-=======
 ## Notes
 - 需要清理指定数据库时，可选择 `clear_data.py`（按 `db_config.ini` 中的数据库名工作，谨慎使用）。
 - 依赖清单见 `install_package.py`。
->>>>>>> ab82e7a5e0cb2e58e21a4f56cf9c026f46ff5866
