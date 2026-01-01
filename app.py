@@ -466,7 +466,7 @@ UI_TEMPLATE = """
                 <div class="token">SQL DATA CONSOLE</div>
                 <h1>Connect · Explore · Query</h1>
                 <p style="color:var(--text-soft);max-width:640px;">
-                    Point this lightweight web UI at any MySQL database, browse its tables, and run ad-hoc SQL without the old coursework tasks.
+                    Point this lightweight web UI at any MySQL database, browse its tables, and run ad-hoc SQL.
                 </p>
             </div>
             <div class="status-chip" id="status-chip" data-state="off">Disconnected</div>
